@@ -1,4 +1,4 @@
-# Word Count Project
+# Word Count 
 
 This project implements a simple word count application that analyzes text input and provides statistics on word frequency. It is built using HTML, CSS, and JavaScript.
 
