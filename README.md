@@ -12,7 +12,4 @@ The **Word Count Project** reads a given text and calculates the total number of
 - **Word Frequency List**: Displays a list of unique words and their respective counts.
 - **User-Friendly Interface**: Simple and intuitive design for easy use.
 
-## Usage
 
-1. Clone the repository or download the project files.
-2. Open `index.html` in your web browser to start using the application.
